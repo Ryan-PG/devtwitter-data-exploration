@@ -23,6 +23,21 @@ README.md                                # You're looking at it 😉
 
 ```
 
+## 🖼️ Visual Results
+
+### Word Clouds
+
+<img src="images/devtwitter-general-wordcloud.png" alt="General Word Cloud" height="500"/>
+<img src="images/name-tags-wordcloud.png" alt="Name Tags Word Cloud" height="500"/>
+
+### Trend Animations
+
+<p align="center">
+  <img src="images/programming_lang_trends.gif" alt="Programming Language Trends" height="300" style="margin-right: 10px;"/>
+  <img src="images/word_trends.gif" alt="Word Trends" height="300"/>
+</p>
+
+
 ## 📊 What’s Inside?
 
 Just for fun, I took the shared post data and:
